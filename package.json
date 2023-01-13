@@ -2,7 +2,7 @@
   "name": "highlands-ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tungdd98.github.io/highlands-ui/",
+  "homepage": "https://trantrang2000.github.io/highlands-ui/",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
